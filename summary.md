@@ -112,7 +112,7 @@ function App() {
 
   - Public 설정 확인
 
-  - 최상단 Router에 basename 추가
+  - App.js의 최상단 Router에 basename 추가
 
     ```react
     <Router basename={process.env.PUBLIC_URL}>
