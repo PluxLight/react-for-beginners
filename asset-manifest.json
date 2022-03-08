@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-for-beginners/static/js/main.48ae1106.js",
-    "index.html": "/react-for-beginners/index.html",
-    "main.48ae1106.js.map": "/react-for-beginners/static/js/main.48ae1106.js.map"
+    "main.js": "/Clone-React-Movie-Web-App/static/js/main.2d7f0bdc.js",
+    "index.html": "/Clone-React-Movie-Web-App/index.html",
+    "main.2d7f0bdc.js.map": "/Clone-React-Movie-Web-App/static/js/main.2d7f0bdc.js.map"
   },
   "entrypoints": [
-    "static/js/main.48ae1106.js"
+    "static/js/main.2d7f0bdc.js"
   ]
 }
